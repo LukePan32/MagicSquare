@@ -1,0 +1,15 @@
+C:\Documents\MagicSquare\MagicSquare\bin\Debug\net7.0\MagicSquare.exe
+C:\Documents\MagicSquare\MagicSquare\bin\Debug\net7.0\MagicSquare.deps.json
+C:\Documents\MagicSquare\MagicSquare\bin\Debug\net7.0\MagicSquare.runtimeconfig.json
+C:\Documents\MagicSquare\MagicSquare\bin\Debug\net7.0\MagicSquare.dll
+C:\Documents\MagicSquare\MagicSquare\bin\Debug\net7.0\MagicSquare.pdb
+C:\Documents\MagicSquare\MagicSquare\obj\Debug\net7.0\MagicSquare.csproj.AssemblyReference.cache
+C:\Documents\MagicSquare\MagicSquare\obj\Debug\net7.0\MagicSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\MagicSquare\MagicSquare\obj\Debug\net7.0\MagicSquare.AssemblyInfoInputs.cache
+C:\Documents\MagicSquare\MagicSquare\obj\Debug\net7.0\MagicSquare.AssemblyInfo.cs
+C:\Documents\MagicSquare\MagicSquare\obj\Debug\net7.0\MagicSquare.csproj.CoreCompileInputs.cache
+C:\Documents\MagicSquare\MagicSquare\obj\Debug\net7.0\MagicSquare.dll
+C:\Documents\MagicSquare\MagicSquare\obj\Debug\net7.0\refint\MagicSquare.dll
+C:\Documents\MagicSquare\MagicSquare\obj\Debug\net7.0\MagicSquare.pdb
+C:\Documents\MagicSquare\MagicSquare\obj\Debug\net7.0\MagicSquare.genruntimeconfig.cache
+C:\Documents\MagicSquare\MagicSquare\obj\Debug\net7.0\ref\MagicSquare.dll
